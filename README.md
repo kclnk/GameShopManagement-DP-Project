@@ -1,7 +1,6 @@
 # 📽️ Project Demonstration Video
 
-🔗 **Videos:**  
-[Link Video](https://drive.google.com/drive/folders/1ekBAs1Yz3krYncMYOYUg_vJ8o95lbMTx?usp=sharing)
+🔗 **Videos:**  [Link Video](https://drive.google.com/drive/folders/1ekBAs1Yz3krYncMYOYUg_vJ8o95lbMTx?usp=sharing)
 
 ---
 
